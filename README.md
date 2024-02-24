@@ -1,6 +1,6 @@
 # go-cachebust
 
-Package **cachebust** provides tools for cahce-busting, for the Go programming language.
+Package **cachebust** provides tools for cache-busting, for the Go programming language.
 
 Cache-Busting codes are useful when trying to prevent a resource on the Web (such an image, a CSS file, or anything else) from being served from a cache.
 Whether that be a web-browser cache, or some cache on (or behind) the Internet.
